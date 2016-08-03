@@ -1,0 +1,144 @@
+<!DOCTYPE html> 
+<html lang=en> <head> 
+<meta content="IE=edge,chrome=1" http-equiv=X-UA-Compatible> 
+<meta charset=utf-8 /> 
+<meta name=viewport content="width=device-width, initial-scale=1">
+<title>Delivering Innovative IT Solutions - Unecom</title> 
+<meta name=description content="Unecom IT provide Custom Software Development, fully managed IT Services, Network Cabling Solutions and Custom Telephone Systems."/> <meta name=keywords content="unecom, it, support, services, security, solutions, networking, application, design, computers"/> <link rel="shortcut icon" type="image/png" href="./img/favico.png"/> <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700,900' rel=stylesheet> <link href="/css/bootstrap.min.css" rel=stylesheet />
+<link href="/css/style.css" rel=stylesheet />
+<link href="/css/animate.min.css" rel=stylesheet />
+<link href="/img/favico.png" rel=icon type="image/png"/>
+<!--[if lt IE 9]><script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js">
+</script> <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script><![endif]--> 
+<!--[if IE]>
+<style>/* IE  8 FIX */.navbar-inverse .nav li.dropdown.open > .dropdown-toggle,.navbar-inverse .nav li.dropdown.active > .dropdown-toggle,.navbar-inverse .nav li.dropdown.open.active > .dropdown-toggle,.navbar,.navbar-inverse .navbar-inner {filter:none;background-image:none;}</style>
+<![endif]--> <meta name="twitter:card" content=summary_large_image />
+<meta name="twitter:site" content="@unecomit"/>
+<meta name="twitter:site:id" content="@unecomit"/>
+<meta name="twitter:title" content=Unecom />
+<meta name="twitter:description" content="Unecom IT provide Custom Software Development, fully managed IT Services, Network Cabling Solutions and Custom Telephone Systems."/> <meta name="twitter:image" content="http://www.unecom.co.uk/img/office-5.jpg"/> </head> <body class=index>
+<div itemscope itemtype="http://schema.org/WebSite"> 
+<header role=banner>
+<h1 class=hidden>Unecom</h1>
+<nav class="navbar navbar-default navbar-fixed-top">
+<div class=container> <div class=navbar-header>
+<button type=button class="navbar-toggle collapsed" data-toggle=collapse data-target="#bs-example-navbar-collapse-1">
+<span class=sr-only>Toggle navigation</span>
+<span class=icon-bar></span>
+<span class=icon-bar>
+</span> <span class=icon-bar></span>
+</button>
+<a class=navbar-brand href="/"> 
+<!--[if IE]>
+<img id=unecom-logo-ie alt="Unecom Logo" src="/img/unecom-logo-ie.png"/><![endif]-->
+<!--[if !IE]--><img id=unecom-logo alt="Unecom Logo" src="/img/unecom-logo.png"/>
+<!--[endif]--> </a> </div> <div class="collapse navbar-collapse" id=bs-example-navbar-collapse-1>
+<div class="nav navbar-nav"></div> <ul class="nav navbar-nav navbar-right"> 
+<li class=dropdown>
+<a href="#" class=dropdown-toggle data-toggle=dropdown role=button aria-expanded=false>Software <span class=caret></span></a>
+<ul class=dropdown-menu role=menu>
+<li><a href="/software-development.html">Development</a>
+</li> <li><a href="/examtrack.html">ExamTrack</a></li>
+<li><a href="/leasetracker.html">LeaseTracker</a></li>
+</ul> </li> <li class=dropdown>
+<a href="#" class=dropdown-toggle data-toggle=dropdown role=button aria-expanded=false>IT Services <span class=caret></span></a>
+<ul class=dropdown-menu role=menu> <li><a href="/it-services.html">Services</a>
+</li> <li><a href="/managed-it-support.html">Managed IT Support</a></li> 
+<li><a href="/it-security.html">IT Security</a></li> <li><a href="/network-infrastructure.html">Network Infrastructure</a></li> 
+<li><a href="/disaster-recovery.html">Disaster Recovery</a></li> </ul> </li>
+<li class=dropdown> <a href="#" class=dropdown-toggle data-toggle=dropdown role=button aria-expanded=false>Telecoms <span class=caret></span>
+</a> <ul class=dropdown-menu role=menu> <li><a href="/asterisk.html">Asterisk</a></li> </ul>
+</li> <li><a href="/blog/">Blog</a></li> <li><a href="/careers.html">Careers</a></li> <li>
+<a href="/contact.html">Contact</a></li> </ul> </div> </div> </nav> 
+<div class="jumbotron image-display banner1 header"> <div class=container> <div class="col-md-12 text-center">
+<h1 title="Delivering innovative IT solutions" class="wow bounceInLeft"><span>Delivering innovative IT solutions</span>
+</h1><br/> <p class="wow bounceInRight">Proactive fully Managed IT Services throughout the UK. Designed to reduce your costs, increase your profits and reduce your business risks, we deliver the highest quality service to the people that matter – our customers.</p>
+<div class="wow bounceIn"> <a href="https://www.facebook.com/unecomit">
+<img alt=Facebook title=Facebook src="/img/icons/fb.png"/></a>
+<a href="https://plus.google.com/+UnecomCoUk/posts">
+<img alt="Google+" title="Google+" src="/img/icons/google-p.png"/>
+</a> <a href="https://twitter.com/unecomit">
+<img alt=Twitter title=Twitter src="/img/icons/twitter.png"/>
+</a> <a href="https://www.linkedin.com/company/unecom-it-ltd"><img alt=LinkedIn title=LinkedIn src="/img/icons/linkedin.png"/></a>
+</div> </div> </div> </div> </header> <main role=main> 
+<div class="container-fluid blue-bg"> <div class=container>
+<div class="col-md-12 text-center"> <div class=row> 
+<div class="col-md-4 text-center"> <h3>Software</h3>
+<a href="./software-development.html"><img alt=Software class=flat-icons src="/img/save.png"/></a>
+<p>Scalability Matters. Thats why our clients trust Unecom IT to provide cloud applications that will grow with them.</p> 
+</div> <div class="col-md-4 text-center"> <h3>IT Services</h3>
+<a href="./it-services.html"><img alt="IT Services" class=flat-icons src="/img/computers.png"/></a>
+<p>Security Matters. Thats why our clients trust Unecom IT to Monitor, Maintain and Secure their networks.</p> </div>
+<div class="col-md-4 text-center"> <h3>Telecoms</h3> <a href="./asterisk.html">
+<img alt=Telecoms class=flat-icons src="/img/headphones.png"/></a> 
+<p>Service Matters. Thats why our clients trust Unecom IT to provide reliable telecoms at the best possible price.</p>
+</div> </div> </div> </div> </div> <div class="container-fluid spacer">
+<div class=container> <div class=row> <div class=col-md-6> 
+<h2 class=title-line><span>Unecom Platform</span></h2> 
+<p>Our cloud platform lies at the heart of our applications, providing the core technologies that enable us to take any business data and make it available anywhere. </p> 
+<p> <!--[if lt IE 9]><a href="http://www.unecom.co.uk/contact.html#contact">
+<div class="btn btn-warning btn-sm">Talk to us about a project</div>
+</a><![endif]--> <!--[if !IE]--> <button type=button class="btn btn-warning btn-md modal-button" data-toggle=modal data-target="#myModal"> Talk to us about a project </button>
+<!--[endif]--> </p> </div> <div class=col-md-6> <img src="./img/unecom-software.png" alt="Unecom Software" class=img-responsive title="Unecom Platform"/>
+</div> </div> </div> </div> <div class="container-fluid spacer blue-bg news-update"> <div class=container>
+<div class=row> <div class=col-md-12> <h2 class="title-line blue"><span>News</span></h2> </div>
+</div> <div class=row> <div class="col-md-6 wow slideInLeft">
+<h3><span><a href="./blog.html">Merry Christmas from Unecom!</a></span></h3>
+<p>Just a quick update from the Unecom team, wishing everyone a Merry Christmas and a happy New Year! <a href="./blog.html">More...</a></p> </div>
+<div class="col-md-6 wow slideInRight"> <h3><a href="./blog.html">Data Encryption for the Financial Services Industry</a></h3>
+<p>Many firms have staff that work from home or use laptops and other portable devices such as memory sticks and CDs to store or transfer customer data. <a href="./blog.html">More...</a></p>
+</div> </div> </div> </div> <div class="container-fluid image-display image-display-fixed banner2">
+<div class=container> <div class="col-md-12 text-center"> </div> </div> </div> <div class="container-fluid spacer smooth">
+<div class=container> <div class=row> <div class=col-md-12> <h2 class=title-line><span>What our clients say</span></h2>
+</div> </div> <div class=row> <div class=col-md-6> <a href="http://imperial.events">
+<img src="./img/logos/imperialevents.png" alt="Gill Cooke Personnel" class="pull-left clients"/></a>
+<h3>I cannot recommend Unecom highly enough!</h3>
+<p>“We are a high growth company and require a system that is quick, robust and secure. The resulting package is both cost-effective and efficient and the customer service we receive from the company is first class.”<br/>
+<i>~ Rob Poutch</i><br/> <a href="http://imperial.events"><b>Imperial Corporate Events</b></a> </div>
+<div class=col-md-6> <a href="http://www.blaby.gov.uk/"><img src="./img/logos/blaby-district-council.gif" alt="Blaby District Council" class="pull-left clients"/></a>
+<h3>Good working relationship</h3>
+<p>"We have a good working relationship with Unecom, everything is backed up by credible test results and works are carried out with minimal disruption to our busy offices." <br/>
+<i>~ Anthony LaMenza</i><br/> <a href="http://www.blaby.gov.uk/">
+<b>Blaby District Council</b></a> </p> </div> </div> <div class=row>
+<div class=col-md-12> <h2 class="title-line white"><span>Our Mission</span> </h2>
+<p>At Unecom we aim to change the way businesses think about IT. We create, recommend and support solutions that enable your team to work better. Technology and business does not stand still. With transparent pricing and robust scaleable solutions that support growth and change, Unecom will be your partner in success.</p>
+</div> </div> </div> </div> <div class=container> </div> <div class="container-fluid spacer">
+<div class=container> <div class=row> <div class=col-md-12> <h2 class=title-line><span>Meet the Team</span></h2>
+<br/> </div> </div> <div class=row> <div class="col-md-4 wow slideInLeft" itemscope itemtype="http://schema.org/Person">
+<div class=media> <div class="media-left media-middle" itemprop=image>
+<img src="./img/team/lorne_smith.jpg" alt="Lorne Smith" class="img-circle people"/> </div> 
+<div class=media-body> <h3 itemprop=name>Lorne Smith</h3> <p itemprop=jobTitle>Managing Director</p> </div> </div>
+<p itemprop=description>Founder of Unecom, Lorne takes an active interest in all parts of the business. Having over 15 years experience in IT service delivery, Lorne gets great satisfaction from engaging with clients and delivering innovative solutions.</p> </div>
+<div class="col-md-4 wow slideInUp" itemscope itemtype="http://schema.org/Person"> <div class=media>
+<div class="media-left media-middle" itemprop=image>
+<img src="./img/team/gareth_lapworth.jpg" alt="Gareth Lapworth" class="img-circle people"/> </div>
+<div class=media-body> <h3 itemprop=name>Gareth Lapworth</h3> <p itemprop=jobTitle>Technical Director</p> </div>
+</div> <p itemprop=description>With a rich background in software engineering and computer security, Gareth leads the software development of ExamTrack. Having worked for academia he still regularly lectures to both undergraduate and postgraduate taught students as well as giving expert testimony to the UK judicical system.</p> </div>
+<div class="col-md-4 wow slideInRight" itemscope itemtype="http://schema.org/Person"> <div class=media>
+<div class="media-left media-middle" itemprop=image>
+<img src="./img/team/david_anderton.jpg" alt="David Anderton" class="img-circle people"/> </div>
+<div class=media-body> <h3 itemprop=name>David Anderton</h3> <p itemprop=jobTitle>Solutions Account Manager</p> </div> </div>
+<p itemprop=description>David has vast experience in account management and grant funding for SMEs, often focusing on value added solutions for clients. With a background in IT Solutions, Logistics &amp; Manufacturing, David understands the customer supply chain and innovation process. He often identifies opportunities for solutions and support that benefit the client.</p> </div> </div>
+<div class=row> <div class="col-md-4 wow slideInLeft" itemscope itemtype="http://schema.org/Person"> <div class=media> <div class="media-left media-middle" itemprop=image>
+<img src="./img/team/joe_reynolds.jpg" alt="Joe Reynolds" class="img-circle people"/> </div> <div class=media-body> <h3 itemprop=name>Joe Reynolds</h3> <p itemprop=jobTitle>Senior Support Manager</p> </div>
+</div> <p itemprop=description>Joe’s technical competence is second to none. His analytical and problem solving skills make him an invaluable member of the team.</p> </div> <div class="col-md-4 wow slideInUp" itemscope itemtype="http://schema.org/Person"> <div class=media> <div class="media-left media-middle" itemprop=image> 
+<img src="./img/team/jan_brewin.jpg" alt="Jan Brewin" class="img-circle people"/> </div> <div class=media-body> <h3 itemprop=name>Jan Brewin</h3> <p itemprop=jobTitle>Finance Manager</p> </div> </div>
+<p itemprop=description>With a strong background in accounts and business management, Jan has automated our financial processes.</p> </div> <div class="col-md-4 wow slideInRight" itemscope itemtype="http://schema.org/Person"> <div class=media> <div class="media-left media-middle" itemprop=image> <img src="./img/team/claire_oliver.jpg" alt="Claire Oliver" class="img-circle people"/> </div> <div class=media-body> <h3 itemprop=name>Claire Oliver</h3>
+<p itemprop=jobTitle>Customer Support Manager</p> </div> </div>
+<p itemprop=description>Claire has an understanding nature and enjoys engaging with clients, and also bakes awesome cakes which keeps the team very happy and focussed!</p> </div> </div>
+<div class=row> <div class="col-md-4 wow slideInLeft" itemscope itemtype="http://schema.org/Person"> <div class=media> <div class="media-left media-middle" itemprop=image> <img src="./img/team/leighton_west.jpg" alt="Leighton West" class="img-circle people"/> </div> <div class=media-body> <h3 itemprop=name>Leighton West</h3>
+<p itemprop=jobTitle>Developer</p> </div> </div>
+<p itemprop=description>Working in software development, Leighton is a self-proclaimed geek and the guy to go to when trying to settle an argument about who would win in a fight between Superman &amp; Batman.</p> </div> <div class="col-md-4 wow slideInUp" itemscope itemtype="http://schema.org/Person"> <div class=media> <div class="media-left media-middle" itemprop=image> <img src="./img/team/sam_springthorpe.jpg" alt="Sam Springthorpe" class="img-circle people"/> </div>
+<div class=media-body> <h3 itemprop=name>Sam Springthorpe</h3> <p itemprop=jobTitle>Apprentice IT Engineer</p> </div> </div> <p itemprop=description>Sam is an enthusiastic individual, always learning something new from his colleagues. Sam hopes to take his growing experiences forward into the IT Industry as an accomplished IT Engineer and a valuable member of the team.</p> </div> <div class="col-md-4 wow slideInRight" itemscope itemtype="http://schema.org/Person"> <div class=media> <div class="media-left media-middle" itemprop=image> <img src="./img/team/paul_allen.jpg" alt="Paul Allen" class="img-circle people"/> </div> <div class=media-body> <h3 itemprop=name>Paul Allen</h3>
+<p itemprop=jobTitle>Technical Support Administrator</p> </div> </div> <p itemprop=description>Paul is a versatile individual with a background in Technical Administration, Resource Coordination & Customer Service, He is a bit of an Admin guru, providing Support to the whole team, he also manages our Help Desk and enjoys interacting with clients.</p> </div> </div> <div class=row> <div class="col-md-4 wow slideInLeft" itemscope itemtype="http://schema.org/Person">
+<div class=media> <div class="media-left media-middle" itemprop=image> <img src="./img/team/jamie_porter.jpg" alt="Jamie Porter" class="img-circle people"/> </div> <div class=media-body> <h3 itemprop=name>Jamie Porter</h3> <p itemprop=jobTitle>Support Technician</p> </div> </div> <p itemprop=description>Jamie is an experienced technical engineer, having managed complex IT networks in Education, Healthcare and Manufacturing sectors. His breadth of understanding in system issues, preventative and reactive make him a valuable addition to Unecom IT.</p> </div> </div> </div> </div></main>
+<div class="modal fade" id=myModal tabindex=-1 role=dialog aria-labelledby=myModalLabel aria-hidden=true> <div class=modal-dialog> <div class=modal-content> <div class=modal-header> <button type=button class=close data-dismiss=modal aria-label=Close><span aria-hidden=true>&times;</span></button> <h4 class=modal-title id=myModalLabel><strong>Contact</strong> Us</h4> </div> <div class=modal-body> <form action="exec/form-mail.php" id=contactForm method=post> <div class=row> <div class=col-md-6> <div class=form-group> <label>Your name *</label> <input value="" data-msg-required="Please enter your name." maxlength=100 class=form-control name=name id=name> </div> </div> <div class=col-md-6> <div class=form-group>
+<label>Your email address *</label> <input type=email value="" data-msg-required="Please enter your email address." data-msg-email="Please enter a valid email address." maxlength=100 class=form-control name=email id=email> </div> </div> </div> <div class=row> <div class=col-md-12> <div class=form-group> <label>Subject</label> <input value="" data-msg-required="Please enter the subject." maxlength=100 class=form-control name=subject id=subject> </div> </div> </div>
+<div class=row> <div class=col-md-12> <div class=form-group> <label>Message *</label> <textarea maxlength=5000 data-msg-required="Please enter your message." rows=10 class=form-control name=message id=message></textarea> </div> </div> </div> <br/> <div class=row> <div class=col-md-12> <div class=g-recaptcha data-sitekey=6LcMwgITAAAAAO4i6ecn8YqZIcBPc_LmKDy4zbiY></div> </div> </div> <div class=row> <div class="col-md-12 modal-footer"> <button type=button class="btn btn-default" data-dismiss=modal>Cancel</button> <input type=submit value="Send Message" form=contactForm class="btn btn-primary pull-right" data-loading-text="Loading..."> </div> </div> </form> </div> </div> </div> </div> <footer role=contentinfo class=footer-sticky> <div class="container-fluid spacer blue-bg"> <div class=container> <div class="row text-center">
+<div class="col-md-2 col-xs-2 partners"> <img class=img-responsive alt=Dell title=Dell src="/img/partners/dell-white.png"/> <img class=img-responsive alt="Brand Rex" title="Brand Rex" src="/img/partners/brand-rex-white.png"/> </div> <div class="col-md-2 col-xs-2 partners"> <img class=img-responsive alt=ESET title=ESET src="/img/partners/eset-white.png"/> <img class=img-responsive alt=Citrix title=Citrix src="/img/partners/citrix-white.png"/> </div> <div class="col-md-2 col-xs-2 partners"> <img class=img-responsive alt=Microsoft title=Microsoft src="/img/partners/microsoft-white.png"/> <img class=img-responsive alt=Hellermanntyton title="Hellermann Tyton" src="/img/partners/hellermanntyton-white.png"/> </div>
+<div class="col-md-2 col-xs-2 partners"> <img class=img-responsive alt=HP title=HP src="/img/partners/hp-white.png"/> <img class=img-responsive alt="ADC Krone" title="ADC Krone" src="/img/partners/adckrone-white.png"/> </div> <div class="col-md-2 col-xs-2 partners"> <img class=img-responsive alt=Cisco title=Cisco src="/img/partners/cisco-white.png"/> <img class=img-responsive alt=VMware title=VMware src="/img/partners/vmware-white.png"/> </div> <div class="col-md-2 col-xs-2 partners"> <img class=img-responsive alt=Draytek title=Draytek src="/img/partners/draytek-white.png"/> <img class=img-responsive alt=Astrisk title=Astrisk src="/img/partners/asterisk-white.png"/> </div> </div> </div> </div>
+<div class="container-fluid footer"> <div class=container> <div class=row> <div class=col-md-4 itemscope itemtype="http://schema.org/Organization"> <h3 class="title-line black"><span>Contact</span><span class=rm-padding itemprop=name>Unecom</span></h3> <div itemprop=address itemscope itemtype="http://schema.org/PostalAddress"> <p><span itemprop=streetAddress>Dock 214, 75 Exploration Drive, Pioneer Park</span>,<br/><span itemprop=addressLocality>Leicester</span>, <span itemprop=postalCode>LE4 5NU</span></p> <p>Phone: <span itemprop=telephone>+(44)116 2417151</span></p>
+<p>Email: <a href="mailto:support@unecom.co.uk"><span itemprop=email>support@unecom.co.uk</span></a></p> </div> </div> <div class=col-md-4> <h3 class="title-line black"><span>History </span></h3> <p>Unecom has been serving industry for over 12 years.</p> </div> <div class=col-md-4> <h3 class="title-line black"><span>Follow Us</span></h3> <a href="https://www.facebook.com/unecomit"><img alt=Facebook title=Facebook src="/img/icons/fb.png"/></a>
+<a href="https://plus.google.com/+UnecomCoUk/posts"><img alt="Google+" title="Google+" src="/img/icons/google-p.png"/></a> <a href="https://twitter.com/unecomit"><img alt=Twitter title=Twitter src="/img/icons/twitter.png"/></a> <a href="https://www.linkedin.com/company/unecom-it-ltd"><img alt=LinkedIn title=LinkedIn src="/img/icons/linkedin.png"/></a> </div> </div>
+<div class="row copyright"> <div class="col-md-7 hidden-xs"> <a href="/">Home</a> / <a href="/software-development.html">Software</a> / <a href="/it-services.html">IT Services</a> / <a href="/asterisk.html">Telecoms</a> / <a href="/blog">Blog</a> / <a href="/contact.html">Contact</a> / <a href="/terms-conditions.html">Terms &amp; Conditions</a> / <a href="/privacy-policy.html">Privacy Policy</a> / <a href="/it-support-leicester.html">IT Support Leicester</a>
+</div> <div class="col-md-5 text-right"> 2016 &copy; Unecom IT Ltd </div> </div> </div> </div> /div>
